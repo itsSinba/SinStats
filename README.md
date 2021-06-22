@@ -1,6 +1,6 @@
 # SinStats
 https://www.curseforge.com/wow/addons/sinstats  
-SinStats is a lightweight yet powerful addon made for Classic Era, Burning Crusade and Shadowlands that displays a large range of stats, updated in real-time on a moveable frame that can be placed anywhere on your screen.  
+SinStats is a lightweight yet powerful addon made for World of Warcraft Classic Era, Burning Crusade and Shadowlands that displays a large range of stats, updated in real-time on a moveable frame that can be placed anywhere on your screen.  
 
 
 ## REAL-TIME STATS : ABSOLUTE ACCURACY!
