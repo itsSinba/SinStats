@@ -3,12 +3,12 @@ SinStats is a lightweight yet powerful addon made for Classic Era, Burning Crusa
  Introducing SinLive™ : Taking stats to the next level!
 
 
-REAL-TIME STATS : ABSOLUTE ACCURACY!
+# REAL-TIME STATS : ABSOLUTE ACCURACY!
 
 A number of abilities, talents, enchants, consumables, tier set bonuses, racials, procs, buffs and world buffs have been manually added and used to provide an unmatched accuracy. The HUD was designed to reflect your actual numbers in real-time, as they are at any moment during combat (or outside of combat!). If you use all your cooldowns on a boss fight, your stats will reflect the improved numbers! Some of these stats will even scale based on your target level!
 
 
-FEATURES OVER 60 STATS TO CHOOSE FROM!
+# FEATURES OVER 60 STATS TO CHOOSE FROM!
 
 Attack Power : Melee and Ranged 
 Attack Power against Undead : Melee and Ranged [Classic Only]
@@ -40,7 +40,7 @@ Spell Resistance : Fire, Frost, Arcane, Nature and Shadow [Classic and BCC]
 Other Stats : Movement speed, Items Durability, FPS and Latency [Classic, BCC and Retail]
 
  
-INTRODUCING SinLive™
+# INTRODUCING SinLive™
 SinLive™ stats are dynamic stats that react to your current target.
 These stats will scale based on the target level and the beneficial debuffs that are applied.
 
@@ -51,7 +51,7 @@ Tooltips on the Settings have been updated. Hover any stat to get more info.
 These stats will have a (+) sign next to them on the Settings menu.
 
 
-FAQ
+# FAQ
 
 Q: What versions of WoW is SinStats compatible with ? 
 A: SinStats currently supports all WoW versions, including Classic, Burning Crusade and Shadowlands.
