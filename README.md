@@ -10,7 +10,9 @@ A number of abilities, talents, enchants, consumables, tier set bonuses, racials
 # FEATURES OVER 60 STATS TO CHOOSE FROM!
 
 Attack Power : Melee and Ranged 
+
 Attack Power against Undead : Melee and Ranged [Classic Only]
+
 Damage : Melee and Ranged
 Damage per Second : Melee and Ranged [BCC Only] **New**
 Critical Strike : Melee, Ranged and Spell
