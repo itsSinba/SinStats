@@ -1,6 +1,5 @@
 # SinStats
 SinStats is a lightweight yet powerful addon made for Classic Era, Burning Crusade and Shadowlands that displays a large range of stats, updated in real-time on a moveable frame that can be placed anywhere on your screen.  
- Introducing SinLive™ : Taking stats to the next level!
 
 
 # REAL-TIME STATS : ABSOLUTE ACCURACY!
@@ -40,7 +39,7 @@ Spell Resistance : Fire, Frost, Arcane, Nature and Shadow [Classic and BCC]
 Other Stats : Movement speed, Items Durability, FPS and Latency [Classic, BCC and Retail]
 
  
-# INTRODUCING SinLive™
+# INTRODUCING SinLive™, taking stats to the next level!
 SinLive™ stats are dynamic stats that react to your current target.
 These stats will scale based on the target level and the beneficial debuffs that are applied.
 
