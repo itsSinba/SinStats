@@ -2,8 +2,8 @@
 MIRROR : https://www.curseforge.com/wow/addons/sinstats  
 
 SinStats is a lightweight yet powerful addon made for World of Warcraft Classic Era, Burning Crusade and Shadowlands that displays a large range of stats, updated in real-time on a moveable frame that can be placed anywhere on your screen.  
-![plot](main3.png)
-![plot](main2.png)
+![Image](https://i.imgur.com/7XxHQav.png)
+![Image](https://i.imgur.com/De1l8dI.png)
 
  
 ## REAL-TIME STATS : ABSOLUTE ACCURACY!
@@ -15,7 +15,7 @@ If you use all your cooldowns on a boss fight, your stats will reflect the impro
  
 ## INTRODUCING SinLive™, taking stats to the next level!
 
-![plot](sinliveap.png)
+![Image](https://i.imgur.com/lzq6zIx.png)
 
 SinLive™ stats are dynamic stats that react to your current target.
 These stats will scale based on the target level and the beneficial debuffs that are applied.
@@ -63,7 +63,7 @@ These stats will have a (+) sign next to them on the Settings menu.
 
 Open Settings : **/sinstats, /ss** or use the **minimap button**
 
-![plot](pvw74364.png)
+![Image](https://i.imgur.com/sVq5wOe.png)
 
  
 ## FAQ
