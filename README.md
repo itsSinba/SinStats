@@ -1,16 +1,32 @@
 # SinStats
-DOWNLOAD : https://www.curseforge.com/wow/addons/sinstats  
+MIRROR : https://www.curseforge.com/wow/addons/sinstats  
 
 SinStats is a lightweight yet powerful addon made for World of Warcraft Classic Era, Burning Crusade and Shadowlands that displays a large range of stats, updated in real-time on a moveable frame that can be placed anywhere on your screen.  
+![plot](main3.png)
+![plot](main2.png)
 
-
+ 
 ## REAL-TIME STATS : ABSOLUTE ACCURACY!
 
 A number of **abilities, talents, enchants, consumables, tier set bonuses, racials, procs, buffs and world buffs** have been manually added and used to provide an unmatched accuracy.  
 The HUD was designed to reflect your actual numbers in real-time, as they are at any moment during combat (or outside of combat!).  
 If you use all your cooldowns on a boss fight, your stats will reflect the improved numbers! Some of these stats will even scale based on your target level!
 
+ 
+## INTRODUCING SinLive™, taking stats to the next level!
 
+![plot](sinliveap.png)
+
+SinLive™ stats are dynamic stats that react to your current target.
+These stats will scale based on the target level and the beneficial debuffs that are applied.
+
+Eg. The attack power of Hunter's Mark will be reflected on the Range Attack Power. Increments are also added.
+Canceling the target selection will return the values back to default.
+
+Tooltips on the Settings have been updated. Hover any stat to get more info.
+These stats will have a (+) sign next to them on the Settings menu.
+
+ 
 ## FEATURES OVER 60 STATS TO CHOOSE FROM!
 
 * Attack Power : Melee and Ranged 
@@ -42,18 +58,14 @@ If you use all your cooldowns on a boss fight, your stats will reflect the impro
 * Spell Resistance : Fire, Frost, Arcane, Nature and Shadow [Classic and BCC]
 * Other Stats : Movement speed, Items Durability, FPS and Latency [Classic, BCC and Retail]
 
+ 
+## MOD SETUP : QUICK & EASY!
+
+Open Settings : **/sinstats, /ss** or use the **minimap button**
+
+![plot](pvw74364.png)
+
  
-## INTRODUCING SinLive™, taking stats to the next level!
-SinLive™ stats are dynamic stats that react to your current target.
-These stats will scale based on the target level and the beneficial debuffs that are applied.
-
-Eg. The attack power of Hunter's Mark will be reflected on the Range Attack Power. Increments are also added.
-Canceling the target selection will return the values back to default.
-
-Tooltips on the Settings have been updated. Hover any stat to get more info.
-These stats will have a (+) sign next to them on the Settings menu.
-
-
 ## FAQ
 
 **Q: What versions of WoW is SinStats compatible with ?**  
