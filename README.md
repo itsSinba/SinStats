@@ -15,7 +15,7 @@ If you use all your cooldowns on a boss fight, your stats will reflect the impro
  
 ## INTRODUCING SinLive™, taking stats to the next level!
 
-![Image](https://i.imgur.com/lzq6zIx.png)
+![Image](https://cdn-wow.mmoui.com/preview/pvw74471.png)
 
 SinLive™ stats are dynamic stats that react to your current target.
 These stats will scale based on the target level and the beneficial debuffs that are applied.
