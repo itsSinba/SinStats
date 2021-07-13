@@ -64,7 +64,7 @@ These stats will have a (+) sign next to them on the Settings menu.
 Open Settings : **/sinstats, /ss** or use the **minimap button**
 
 ![Image](https://cdn-wow.mmoui.com/preview/pvw74473.png)
-![Image](https://cdn-wow.mmoui.com/preview/pvw74470.png)
+![Image](https://cdn-wow.mmoui.com/preview/pvw74506.png)
  
 ## FAQ
 
