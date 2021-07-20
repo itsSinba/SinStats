@@ -1,0 +1,36 @@
+## Interface: 20501
+## Title: |cff00f26dSinStats|r
+## Author: Sinba
+## Notes: Live Stats Tracker for Burning Crusade Classic
+## Notes-frFR: Statistiques de personnage en direct pour Burning Crusade Classic
+## Title-zhCN: |cff880303[有爱]|r SinStats HUD角色属性
+## Notes-zhTW: |cff880303[有爱]|r SinStats HUD角色属性
+## Notes-deDE: Live Stats Tracker for Burning Crusade Classic
+## Notes-esES: Live Stats Tracker for Burning Crusade Classic
+## Notes-esMX: Live Stats Tracker for Burning Crusade Classic
+## Notes-koKR: Live Stats Tracker for Burning Crusade Classic
+## Notes-ptBR: Live Stats Tracker for Burning Crusade Classic
+## Notes-ruRU: Live Stats Tracker for Burning Crusade Classic
+## Notes-itIT: Live Stats Tracker for Burning Crusade Classic
+## X-Website: https://www.curseforge.com/wow/addons/sinstats
+## Version: 3.4
+## SavedVariablesPerCharacter: SinStatsDB
+
+## X-Curse-Project-ID: 389802
+## X-WoWI-ID: 25939
+
+embeds.xml
+Locales\core.lua
+Locales\enUS.lua
+Locales\frFR.lua
+Locales\zhCN.lua
+Locales\zhTW.lua
+Locales\deDE.lua
+Locales\esES.lua
+Locales\esMX.lua
+Locales\itIT.lua
+Locales\koKR.lua
+Locales\ptBR.lua
+Locales\ruRU.lua
+SinStats.lua
+SinStatsConfig.lua
