@@ -13,7 +13,7 @@ SinStats is a lightweight, powerful addon made for all versions of WoW that disp
 
 ![](https://i.imgur.com/nTGv7Bj.png)
 
-![](https://media.forgecdn.net/attachments/369/652/ranged_ss_.png)
+![](https://i.imgur.com/MvFzzuI.png)
  
 
 
