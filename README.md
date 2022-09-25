@@ -28,7 +28,6 @@ For instance, if your target is affected by Hunter’s Mark and Winter’s Chill
 
 Click on any stat on the Settings Panel to get more info. SinLive™ stats will be indicated in the description below stats.
 <br /><br /><br />
-![](https://i.imgur.com/QFqsr4B.png)
 
 ![](https://i.imgur.com/lAVoHGa.png)
 <br />
