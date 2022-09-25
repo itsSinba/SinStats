@@ -1,8 +1,4 @@
 <br />
-
-![](https://i.imgur.com/lAVoHGa.png)
-
-<br />
 <br />
 SinStats is a lightweight, powerful addon made for all versions of WoW that displays a large range of stats on a HUD, updated in real-time. 
 <br />
