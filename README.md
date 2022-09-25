@@ -1,6 +1,5 @@
 <br />
 
-![](https://i.imgur.com/1DirmC0.png)
 ![](https://i.imgur.com/lAVoHGa.png)
 
 <br />
