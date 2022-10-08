@@ -1,6 +1,6 @@
 local AddName, AddonTable = ...
 
-local L = AddonTable.RegisterLocale("enUS", true)
+local L = AddonTable.RegisterLocale("koKR", true)
 
 L["SpellPowerModifiers"] = "Spell Power Modifiers"
 L["ShadowWeaving"] = "Shadow Weaving"
