@@ -1,0 +1,33 @@
+## Interface: 30400
+## Title: |cff71FFC9SinStats|r
+## Author: Sinba
+## Notes : Live Character Stats Tracker
+## Version: 4.1.0
+## X-Website: https://www.curseforge.com/wow/addons/sinstats
+## X-Curse-Project-ID: 389802
+## SavedVariables: SinStatsDB
+
+
+Locales\Core.lua
+Locales\Wrath\enUS.lua
+Locales\Wrath\zhCN.lua
+Locales\Wrath\zhTW.lua
+Locales\Wrath\frFR.lua
+Locales\Wrath\koKR.lua
+embeds.xml
+SinStats.lua
+HUD.lua
+Widgets.lua
+Config.lua
+Wrath.lua
+Stats\Wrath\IDTables.lua
+Stats\Wrath\Talents.lua
+Stats\Wrath\Updater.lua
+Stats\Wrath\SinLive.lua
+Stats\Wrath\Armor.lua
+Stats\Wrath\Melee.lua
+Stats\Wrath\Ranged.lua
+Stats\Wrath\Defensive.lua
+Stats\Wrath\Spells.lua
+Stats\Wrath\Resistance.lua
+Stats\Wrath\Misc.lua
