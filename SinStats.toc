@@ -1,0 +1,24 @@
+## Interface: 100002
+## Title: |cff71FFC9SinStats|r
+## Author: Sinba
+## Notes : Character Stats
+## Version: 4.2.8
+## X-Website: https://www.curseforge.com/wow/addons/sinstats
+## X-Curse-Project-ID: 389802
+## SavedVariables: SinStatsDB
+
+Locales\Core.lua
+Locales\Retail\enUS.lua
+Locales\Retail\koKR.lua
+embeds.xml
+SinStats.lua
+HUD.lua
+Widgets.lua
+Config.lua
+Retail.lua
+HUDEvents.lua
+Stats\Retail\Updater.lua
+Stats\Retail\Enhancement.lua
+Stats\Retail\Physical.lua
+Stats\Retail\Spell.lua
+Stats\Retail\Misc.lua
