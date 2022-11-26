@@ -254,8 +254,8 @@ L["High"] = "높음"
 L["Highest"] = "매우 높음"
 
 -- Fonts Settings
-L["StatFontTip"] = "폰트"
-L["StatFontSizeTip"] = "폰트 크기"
+L["StatFontTip"] = "글꼴"
+L["StatFontSizeTip"] = "글꼴 크기"
 L["StatFontFlagsTip"] = "외곽선"
 
 -- Display Settings
