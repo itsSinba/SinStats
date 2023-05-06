@@ -1,0 +1,67 @@
+
+AttackPower             APLong      APShort
+RangedAttackPower       RAPLong     RAPShort
+Damage                  DMGLong     DMGShort
+DamagePerSecond         DPSLong     DPSShort
+RangeDamage             rDMGLong    rDMGShort
+RangeDamagePerSecond    rDPSLong    rDPSShort
+FirePower               FireLong    FireShort
+FrostPower...
+ArcanePower...
+ShadowPower...
+NaturePower...
+HealingPower...
+HolyPower...
+CriticalStrike          CritLong        CritShort
+CriticalStrikeBoss      CritBossLong    CritBossShort
+CriticalCap             CritCapLong     CritCapShort
+RangeCritical           rCritLong       rCritShort
+RangeCriticalBoss       rCritBossLong   rCritBossShort
+SpellCritical           SpellCritLong   SpellCritShort
+SpellCriticalBoss       sCritBossLong   sCritBossShort
+HitMelee                HitLong         HitShort
+HitRange                rHitLong        rHitShort
+
+HasteMelee              HasteLong       HasteShort
+AttackSpeed             AsLong          AsShort
+ArmorPenetration        ArmPenLong      ArmPenShort
+Expertise               ExpLong         ExpShort
+MissMelee               MissLong        MissShort
+MissMeleeBoss           BossMissLong    BossMissShort
+Avoidance               AvoidLong       AvoidShort
+Crushing                CrushLong       CrushShort
+CriticallyHit           GetCritLong     GetCritShort
+*HasteRange             rHasteLong      rHASShort
+*AtkSpeedRange          rAtkSpeedLong   rAtkSpeedShort
+MissRange               rMissLong       rMissShort
+MissRangeBoss           rMissBossLong   rMissBossShort
+*HitSpell               sHitLong        sHitShort
+*HasteSpell             SpellHasteLong  SpellHasteShort
+MissSpell               SpellMissLong   SpellMissShort
+MissSpellBoss           SpellBossMissLong   SpellBossMissShort
+ManaRegen               MP2Long         MP2Short
+CastingRegen            MP2CastingLong  MP2CastingShort
+MP5                     MP5Long         MP5Short
+CastingMP5              MP5CastingLong  MP5CastingShort
+Resilience              ResilLong       ResilShort
+Armor                   ArmorLong       ArmorShort
+Mitigation              MitigationLong  MitigationShort
+Defense                 DefenseLong     DefenseShort
+Dodge                   DodgeLong       DodgeShort
+Parry                   ParryLong       ParryShort
+Block                   BlockLong       BlockShort
+
+Fire                    FireResLong     FireResShort
+Frost                   FrostResLong    FrostResShort
+Shadow                  ShadowResLong   ShadowResShort
+Arcane                  ArcaneResLong   ArcaneResShort
+Nature                  NatureResLong   NatureResShort
+
+MovementSpeed           SpeedLong       SpeedShort
+Durability              DurabilityLong  DurabilityShort
+PlayerBuffs             BuffsLong       BuffsShort
+TargetDebuffs           DebuffsLong     DebuffsShort
+Latency                 PingLong        PingShort
+Framerate               FPSLong         FPSShort
+
+Money                   --  no value
