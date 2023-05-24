@@ -15,9 +15,9 @@ SinStats is an advanced stats addon made for Classic, Wrath of the Lich King Cla
 
  
 
-![](https://i.imgur.com/MvFzzuI.png)
+![](https://i.imgur.com/bqpsitk.png)
 
-![](https://i.imgur.com/SNJSAqU.png)
+![](https://i.imgur.com/XYZG70J.png)
 
 
 ![](https://i.imgur.com/lAVoHGa.png)
@@ -36,7 +36,7 @@ If your target is affected by Hunter’s Mark and Winter’s Chill, your Attack 
 
 Most stats are highly configurable with the Extended Options, allowing you to display your stats in many different ways with the most precision.
 <br /><br /><br />
-![](https://i.imgur.com/wp1MlaA.png)
+![](https://i.imgur.com/KTIQoZM.png)
 <br /><br />
 
 ![](https://i.imgur.com/lAVoHGa.png)
@@ -66,6 +66,6 @@ Select a large range of stats, including exclusive ones like Crit Cap, Spell Pen
 
 **/sinstats, /ss** or use the **minimap button**
 
-![](https://i.imgur.com/469sXe7.png)
+![](https://i.imgur.com/8axfbIZ.png)
 
 <br />
