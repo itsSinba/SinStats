@@ -15,7 +15,7 @@ SinStats is an advanced stats addon made for Classic, Wrath of the Lich King Cla
 
  
 
-![](https://i.imgur.com/bqpsitk.png)
+![](https://i.imgur.com/qEbTpzd.png)
 
 ![](https://i.imgur.com/XYZG70J.png)
 
