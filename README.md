@@ -1,5 +1,7 @@
 <br />
 
+DOWNLOAD: https://www.curseforge.com/wow/addons/sinstats
+
 ![](https://img.shields.io/badge/Supports-Dragonflight-orange?style=flat&logo=battledotnet&logoColor=orange) 
 ![](https://img.shields.io/badge/Supports-Wrath-blue?style=flat&logo=battledotnet&logoColor=blue)  ![](https://img.shields.io/badge/Supports-Classic-blueviolet?style=flat&logo=battledotnet&logoColor=blueviolet) 
 <br />
