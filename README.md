@@ -3,7 +3,7 @@
 DOWNLOAD: https://www.curseforge.com/wow/addons/sinstats
 
 ![](https://img.shields.io/badge/Supports-Dragonflight-orange?style=flat&logo=battledotnet&logoColor=orange) 
-![](https://img.shields.io/badge/Supports-Wrath-blue?style=flat&logo=battledotnet&logoColor=blue)  ![](https://img.shields.io/badge/Supports-Classic-blueviolet?style=flat&logo=battledotnet&logoColor=blueviolet) 
+![](https://img.shields.io/badge/Supports-Cataclysm-blue?style=flat&logo=battledotnet&logoColor=blue)  ![](https://img.shields.io/badge/Supports-Classic-blueviolet?style=flat&logo=battledotnet&logoColor=blueviolet) 
 <br />
 <br />
 SinStats is an advanced stats addon made for Classic, Wrath of the Lich King Classic and Dragonflight that displays a large range of stats updated in real-time on a highly customizable frame that can be placed anywhere on your screen.  
